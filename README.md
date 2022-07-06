@@ -10,6 +10,7 @@ Katas from [codewars.com](https://codewars.com) written in Python:
 | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)         | 📂 [vowel_count](vowel_count/)             |
 | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)         | 📂 [even_odd](even_odd/)                   |
 | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)   | 📂 [disemvowel_trolls](disemvowel_trolls/) |
+| [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020)  | 📂 [square_digits](square_digits/)         |
 
 ## Tests
 
