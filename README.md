@@ -2,7 +2,7 @@
 
 ![Codewars](codewars.svg)
 
-Katas from [codewars.com](https://codewars.com) written in Python:
+Katas from [codewars.com](https://www.codewars.com/kata/latest/python?q=&beta=false&order_by=popularity%20desc) written in Python:
 
 | Kata                                                                          | Code                                       |
 | ----------------------------------------------------------------------------- | ------------------------------------------ |
